@@ -1,0 +1,16 @@
+h1{
+    font-size: 60px;
+    color:white;
+}
+strong, b{
+    color:white;
+}
+body{
+    background-color: rgb(84, 97, 159);
+}
+h2{
+    color:white;
+}
+a{
+    color:red;
+}
